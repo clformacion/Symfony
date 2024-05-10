@@ -1,0 +1,18 @@
+****************************************************************
+Paso a paso para crear un crud
+***************************************************************
+
+1.-Crear una carpeta en htdos
+2.-Encender el servidor
+3.-Desde visual en el terminar buscar la ruta de la carpeta
+4.-Crear el proyecto con website
+5.-Abril proyecto en visual
+6.-Instalar orm-parck
+7.-Instalar maker-bundle
+8.-Configurar base de datos en env
+9.-Crear la base de datos
+10.-Crear las entidad
+11.-Hacer las emigraciones
+12.-Crear el crud
+13.-descagar el annotation
+14.-Probar y trabajar el interface
